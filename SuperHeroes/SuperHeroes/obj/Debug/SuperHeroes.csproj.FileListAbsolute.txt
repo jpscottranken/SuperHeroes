@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.frmSuperHeroes.resources
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.Properties.Resources.resources
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\bin\Debug\SuperHeroes.exe.config
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\bin\Debug\SuperHeroes.exe
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\bin\Debug\SuperHeroes.pdb
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.exe
+C:\Users\jpscott\Desktop\SuperHeroes\SuperHeroes\SuperHeroes\obj\Debug\SuperHeroes.pdb
